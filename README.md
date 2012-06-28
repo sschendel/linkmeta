@@ -3,9 +3,14 @@ linkmeta
 
 C# .NET MVC server and javascript client for scraping and displaying meta about web links.  
 
-Server using:
-[http://htmlagilitypack.codeplex.com/]()
+Using following projects:
+========
 
-Javascript client using:
-[http://imgscale.kjmeath.com/]()
+Server:
+
+[http://htmlagilitypack.codeplex.com/](http://htmlagilitypack.codeplex.com/)
+
+Javascript client:
+
+[http://imgscale.kjmeath.com/](http://imgscale.kjmeath.com/)
 
